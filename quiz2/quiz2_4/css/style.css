@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+.ex_04 > ul > .menu1 > ul> .history > a {
+  color: #fff;
+  background-color: #f00;
+}
+.ex_04 > ul > .menu2 > ul> .kids > a {
+  background-color: #ff0;
+}
+.ex_04 > ul > .menu3 > ul> .notice > a {
+  color: #fff;
+  background-color: #08f;
+}

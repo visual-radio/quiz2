@@ -1,0 +1,30 @@
+@charset "utf-8";
+
+.ex_01 {
+  color: white;
+}
+
+.red {
+  background-color: red;
+}
+.orange {
+  background-color: orange;
+}
+.yellow {
+  background-color: yellow;
+}
+.green {
+  background-color: green;
+}
+.blue {
+  background-color: blue;
+}
+.violet {
+  background-color: violet;
+}
+.purple {
+  background-color: purple;
+}
+.black {
+  background-color: black;
+}

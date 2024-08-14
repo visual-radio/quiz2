@@ -1,0 +1,17 @@
+@charset "utf-8";
+
+.facebook:hover {
+  background-color: #00f;
+}
+.instagram:hover {
+  background-color: #f70;
+}
+.pinterest:hover {
+  background-color: #c00;
+}
+.twitter:hover {
+  background-color: #08f;
+}
+.youtube:hover {
+  background-color: #f00;
+}
